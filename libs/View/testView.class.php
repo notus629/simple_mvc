@@ -1,0 +1,14 @@
+<?php
+/*
+ * Test View.
+ * Author: Notus(hehe_xiao@qq.com), bugber.com
+ * Create at: 2017-03-01
+ * Update at: 2017-03-02
+ */
+
+class testView
+{
+	public function display($val){
+		echo $val;
+	}
+}
