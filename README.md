@@ -1,6 +1,8 @@
-# A simple self-defined MVC structure
-Reference: [imooc course](http://www.imooc.com/video/905)
-##Directory tree
+# simple_mvc
+* A simple MVC structure practice to study the MVC principle.
+* Author: Notus(hehe_xiao@qq.com)
+
+## Directory tree
 <pre>
 │  config.php  
 │  function.php  
@@ -19,3 +21,6 @@ Reference: [imooc course](http://www.imooc.com/video/905)
     └─View  
             testView.class.php  
 </pre>
+
+## Reference: 
+* [imooc course](http://www.imooc.com/video/905)
